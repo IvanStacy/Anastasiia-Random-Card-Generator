@@ -26,6 +26,8 @@ body {
 }
 .number {
   font-size: 75px;
+  display: inline-block;
+  margin-top: 185px;
   text-align: center;
 }
 .botton-suit {
